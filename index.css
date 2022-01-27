@@ -41,6 +41,9 @@ span::selection, h1::selection, .day::selection {
     .time {
         font-size: 6em;
     }
+    .col .day {
+        font-size: .8em;
+    }
 }
 
 @media screen and (min-width: 1024px) {
